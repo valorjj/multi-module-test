@@ -1,0 +1,4 @@
+rootProject.name = 'github'
+
+include('multi-big-brother')
+include('multi-younger-brother')
