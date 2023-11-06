@@ -1,5 +1,3 @@
 dependencies {
-	
-	implementation(project(':multi-big-brother'))
-	
+	api(project(':multi-big-brother'))
 }
